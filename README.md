@@ -8,6 +8,7 @@ Aplicação web de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
 - Marcar tarefas como concluídas
 - Remover tarefas
 - Adicionar tarefa pressionando Enter
+- Salvamento de tarefas no navegador com localStorage
 
 ## Tecnologias utilizadas
 
