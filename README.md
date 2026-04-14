@@ -1,4 +1,4 @@
-# To-Do List
+# To-Do List (Lista de Tarefas)
 
 Aplicação web de lista de tarefas desenvolvida com HTML, CSS e JavaScript.
 
